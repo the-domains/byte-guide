@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Byte Guide
-datePublished: '2016-04-27T12:13:39.644Z'
-dateModified: '2016-04-27T12:13:21.609Z'
+datePublished: '2016-04-27T12:15:24.520Z'
+dateModified: '2016-04-27T12:15:17.481Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-27-welcome-to-the-byte-guide-where-you-will-find-information-on.md
