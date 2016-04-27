@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[byte guide]]></title>
-        <description><![CDATA[byte guide]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Byte Guide]]></title>
+        <description><![CDATA[Byte Guide]]></description>
+        <link>https://thegrid.ai/byte-guide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 11:56:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 12:04:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/byte-guide/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to the byte guide where you will find information on the facts you used to know or want to know, all in as little words as possible.</p>]]></description>
-            <link>undefinedwelcome-to-the-byte-guide-where-you-will-find-information-on/index.html</link>
+            <description><![CDATA[<p>Byte Guide</p>]]></description>
+            <link>https://thegrid.ai/byte-guide/welcome-to-the-byte-guide-where-you-will-find-information-on/index.html</link>
             <guid isPermaLink="false">b2052426-7b5b-4dac-a87b-48c56d8a5051</guid>
-            <pubDate>Wed, 27 Apr 2016 11:56:32 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 12:04:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
