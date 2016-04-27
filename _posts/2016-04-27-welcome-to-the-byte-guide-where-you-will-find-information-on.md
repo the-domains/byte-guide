@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Welcome to the byte guide where you will find information on the facts you used to know or want to know, all in as little words as possible.'
-datePublished: '2016-04-27T11:56:32.449Z'
-dateModified: '2016-04-27T11:56:32.039Z'
+description: Byte Guide
+datePublished: '2016-04-27T12:04:34.571Z'
+dateModified: '2016-04-27T12:04:32.514Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-welcome-to-the-byte-guide-where-you-will-find-information-on.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-welcome-to-the-byte-guide-where-you-will-find-information-on.md
-published: true
 url: welcome-to-the-byte-guide-where-you-will-find-information-on/index.html
 _type: Article
 
 ---
+Byte Guide
+
 Welcome to the byte guide where you will find information on the facts you used to know or want to know, all in as little words as possible.
