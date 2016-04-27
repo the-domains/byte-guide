@@ -1,0 +1,28 @@
+name: byte guide
+favicon: null
+layout_spectrum: 0.24140342534519732
+typography_spectrum: 0.5753937151748687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4144046588335186
+  lightness: 0.7577294106595218
+  saturation: 0.8226829986087978
+  rhythmicContrast: 0.08580402447842062
+purpose: []
