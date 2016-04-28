@@ -1,29 +1,41 @@
-name: byte guide
-favicon: null
-layout_spectrum: 0.24140342534519732
-typography_spectrum: 0.20783
 title: Byte Guide
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.8226829986087978
+  brandStrength: 0.4215897
+  lightness: 0.7577294106595218
+  brandColors:
+    - '#4966A8'
+    - '#6987C1'
+    - '#C8A9BC'
+    - '#342C31'
+    - '#D7EAF3'
+  rhythmicContrast: 0.08580402447842062
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: byte guide
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.4144046588335186
-  lightness: 0.7577294106595218
-  saturation: 0.8226829986087978
-  rhythmicContrast: 0.08580402447842062
-purpose: []
+typography_spectrum: 0.20783
+layout_spectrum: 0.2414034253451973
