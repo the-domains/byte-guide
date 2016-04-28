@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Byte Guide]]></title>
+        <description><![CDATA[Byte Guide]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 14:39:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is a Byte?]]></title>
+            <description><![CDATA[<article><h1>What is a Byte?</h1><p>Welcome to the byte guide where you will find information on the facts you used to know or want to know, all in as few words as possible.</p></article>]]></description>
+            <link>undefinedwhat-is-a-byte/index.html</link>
+            <guid isPermaLink="false">b2052426-7b5b-4dac-a87b-48c56d8a5051</guid>
+            <pubDate>Thu, 28 Apr 2016 14:39:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
